@@ -1,1 +1,1 @@
-console.log("Hello World!\n");  kjkji
+console.log("Hello World!\n");
